@@ -17,14 +17,15 @@ No prior experience is required. You *do* need to sign up for an account with [G
 
 ### Syllabus
 * Week 1: An Introduction to Data Science & Python
-* Week 2: Exploratory Data Analysis
-* Week 3: Just Enough Stats for Machine Learning
-* Week 4: Regression and Model Evaluation
-* Week 5: Regression in Practice
-* Week 6: Classification
-* Week 7: Unsupervised Learning
-* Week 8: Interacting with APIs to download data
-* Week 9: Accessing data using SQL
-* Week 10: An introduction to Advanced Concepts
+* Week 2: Iteration and Functions
+* Week 3: Accessing and Visualizing Data
+* Week 4: Using SQL to work with Big Data
+* Week 5: API Calls
+* Week 6: Statistical Methods
+* Week 7: Exploratory Data Analysis
+* Week 8: Introduction to Regression
+* Week 9: Interpreting Regression Models
+* Week 10: Final Projects
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/python_skills_welcome_lab'>Python Skills Welcome Readme</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ds-skills2-welcome-readme'>Python Skills Welcome Readme</a> on Learn.co and start learning to code for free.</p>
